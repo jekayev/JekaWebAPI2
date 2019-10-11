@@ -1,0 +1,11 @@
+C:\Users\YMYKHAILOV\Desktop\MyFolder\Tropinka\WebAPI\JekaWebAPI2\JekaWebAPI2\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\YMYKHAILOV\Desktop\MyFolder\Tropinka\WebAPI\JekaWebAPI2\JekaWebAPI2\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\YMYKHAILOV\Desktop\MyFolder\Tropinka\WebAPI\JekaWebAPI2\JekaWebAPI2\bin\Debug\netcoreapp3.0\efpt.config.json
+C:\Users\YMYKHAILOV\Desktop\MyFolder\Tropinka\WebAPI\JekaWebAPI2\JekaWebAPI2\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\YMYKHAILOV\Desktop\MyFolder\Tropinka\WebAPI\JekaWebAPI2\JekaWebAPI2\bin\Debug\netcoreapp3.0\JekaWebAPI2.exe
+C:\Users\YMYKHAILOV\Desktop\MyFolder\Tropinka\WebAPI\JekaWebAPI2\JekaWebAPI2\obj\Debug\netcoreapp3.0\JekaWebAPI2.csprojAssemblyReference.cache
+C:\Users\YMYKHAILOV\Desktop\MyFolder\Tropinka\WebAPI\JekaWebAPI2\JekaWebAPI2\obj\Debug\netcoreapp3.0\staticwebassets\JekaWebAPI2.StaticWebAssets.Manifest.cache
+C:\Users\YMYKHAILOV\Desktop\MyFolder\Tropinka\WebAPI\JekaWebAPI2\JekaWebAPI2\obj\Debug\netcoreapp3.0\staticwebassets\JekaWebAPI2.StaticWebAssets.xml
+C:\Users\YMYKHAILOV\Desktop\MyFolder\Tropinka\WebAPI\JekaWebAPI2\JekaWebAPI2\obj\Debug\netcoreapp3.0\JekaWebAPI2.AssemblyInfoInputs.cache
+C:\Users\YMYKHAILOV\Desktop\MyFolder\Tropinka\WebAPI\JekaWebAPI2\JekaWebAPI2\obj\Debug\netcoreapp3.0\JekaWebAPI2.AssemblyInfo.cs
+C:\Users\YMYKHAILOV\Desktop\MyFolder\Tropinka\WebAPI\JekaWebAPI2\JekaWebAPI2\obj\Debug\netcoreapp3.0\JekaWebAPI2.RazorTargetAssemblyInfo.cache
