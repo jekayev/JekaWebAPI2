@@ -1,17 +1,14 @@
 ﻿using JekaWebAPI2.Interfaces;
 using JekaWebAPI2.Poco;
-using Microsoft.AspNetCore.Mvc.Rendering;
-using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
 
 namespace JekaWebAPI2.Repositories
 {
     public class ProductRepository : Repository<Product>, IProductRepository
     {
         private readonly CampregistrationContext _db;
-        public ProductRepository(CampregistrationContext db): base(db)
+
+        public ProductRepository(CampregistrationContext db) : base(db)
         {
             _db = db;
         }
