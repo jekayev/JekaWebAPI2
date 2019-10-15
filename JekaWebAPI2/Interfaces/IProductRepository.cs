@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace JekaWebAPI2.Interfaces
 {
-    public interface IProductRepository
+    public interface IProductRepository : IRepository<Product>
     {
         Product GetProductList();
 
